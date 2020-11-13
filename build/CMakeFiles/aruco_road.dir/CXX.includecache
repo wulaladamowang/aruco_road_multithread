@@ -79,6 +79,8 @@ condition_variable
 -
 sys/time.h
 -
+signal.h
+-
 GetImg.h
 /home/wh/code/C++Code/aruco_road_multithread/GetImg.h
 GetRoi.h
